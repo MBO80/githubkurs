@@ -1,3 +1,3 @@
 # githubkurs
 
-Hier übe ich den Umhggang mit Branches.
+Hier übe ich den Umgang mit Branches.
